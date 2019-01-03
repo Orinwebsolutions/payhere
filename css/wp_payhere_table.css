@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 20, 2016, 7:36:15 PM
+    Author     : dell
+*/
+#payhereinfomation{
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+    max-width: 70%;
+}
+#payhereinfomation table tr td{
+    vertical-align: top;
+    padding-bottom: 5px;
+    width: 50%;
+}
+.submit{
+    text-align: center !important;
+}
+.MsgSuccess{
+    color: #008000;
+}
+.MsgFail{
+    color: #ff0000;
+}
